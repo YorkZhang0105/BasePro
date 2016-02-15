@@ -1,0 +1,9 @@
+<!--
+  ~ Copyright (c) 2016 york All rights reserved
+  -->
+
+<resources>
+    <string name="app_name">DevBase</string>
+    <string name="action_settings">Settings</string>
+    <string name="img_content_description">null</string>
+</resources>

@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2016 york All rights reserved
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_bar_height">48dp</dimen>
+    <dimen name="title_bar_left_or_right_padding">13.33dp</dimen>
+</resources>
